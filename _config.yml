@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   精度の低い情報でも気にしない。
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://saruo.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+markdown: kramdown
 twitter_username: pa_pa_ko_ta
 github_username:  saruo
 
