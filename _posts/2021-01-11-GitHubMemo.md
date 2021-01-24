@@ -2,8 +2,12 @@
 layout: post
 title:  "Jekyllでブログを作るときにGitについて少し調べたのでメモ"
 date:   2021-01-10 23:43:37 +0900
-categories: jekyll
+categories: git
 ---
+<!--
+チートシート
+https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa
+-->
 
 https://qiita.com/taigamikami/items/26c29cb0fcdb0c05d396
 まずはこの理解からスタートしてみる。
